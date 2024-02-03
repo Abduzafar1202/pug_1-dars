@@ -1,0 +1,82 @@
+.header{
+    width: 1900px;
+    height: 890px;
+background-image: url(../img/Rectangle\ 2.png);
+ top:-0px;   
+left: -0px;
+position: absolute;
+
+.img img{
+    width: 230px;
+    height: 120px;
+    left: 200px;
+position: absolute;
+top: 0px;
+}
+
+.navbar .nav-list {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+
+.navbar .nav-link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+position: relative;
+font-size:25px;
+}
+
+.navbar .nav-link:hover{
+position:relative;
+border: 2px solid rgb(255, 255, 255);
+padding:10px 10px 10px 10px;
+border-radius:20px;
+font-size: 30px;
+}
+
+
+.navbar{
+position: absolute;
+top: 27px;
+left: 478px;
+}
+
+
+
+
+.social-media_list {
+    display: inline-block;
+    margin-right: 40px;
+
+}
+
+
+.social-media_link img{
+    text-decoration: none;
+width: 50px;
+height: 50px;
+    position:relative;
+}
+
+.social-media_link img:hover{
+    text-decoration: none;
+    transform: translateY(2px);
+    transition: 0.1s;
+    box-shadow: 5px 5px 10px black;
+border-radius: 100%;
+
+}
+
+
+.nvbar_social-media{
+position: absolute;
+top: 27px;
+left: 1300px;
+
+}
+
+
+
+
+}
